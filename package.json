@@ -61,7 +61,7 @@
     "chroma-js": "^2.1.2",
     "gl-matrix": "^3.3.0",
     "headless-svg-to-excalidraw": "^0.0.13",
-    "nanoid": "^3.1.25",
+    "nanoid": "^5.1.7",
     "path-data-parser": "^0.1.0",
     "points-on-curve": "^0.2.0",
     "points-on-path": "^0.2.1",
